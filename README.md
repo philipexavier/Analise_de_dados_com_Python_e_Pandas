@@ -1,11 +1,3 @@
-# Curso_Python_Pandas_Digital_Innovation
- Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
- 
- **Assuntos abordados neste curso**:
- 1. Python Básico
- 1. Estrutura de dados
- 1. Introdução a Biblioteca Pandas
- 1. Trabalhando com arquivos em Excel
- 1. Trabalhando com Datas
- 1. Visualização de dados
- 1. Análise Exploratória de dados
+# Projeto de análise de dados com Python usando Pandas e Matplotlib
+
+Este é um projeto simples feito com o intuito de demonstrar como usar comandos de Data Frame. O benefício deste projeto é que ele mostra como criar novas colunas, renomeá-las, filtrar dados e tratar informações faltantes usando Pandas. Além disso, o projeto utiliza 5 arquivos Excel com informações de vendas por cidades, concatenando-os para realizar uma análise completa do conjunto de dados. Por fim, o último arquivo do Excel é usado para fazer uma análise de vendas por unidades, produtos e tempo de entrega, usando Pandas para manipular os dados e Matplotlib para visualização.
